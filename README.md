@@ -5,3 +5,5 @@ https://app.datacamp.com/workspace/w/3f420150-ff84-4ff1-b6ea-840adf99c364 - Inve
 https://app.datacamp.com/workspace/w/6dee40ca-aad4-48d3-9362-444f17400ca5 - The Android App Market on Google Play
 
 https://app.datacamp.com/workspace/w/491bb20f-ed5e-4900-927c-cc7fac8cbb79 - The GitHub History of the Scala Language
+
+https://app.datacamp.com/workspace/w/fee575ec-5f83-4b4f-9c07-23fd24f610a7/edit - Dr. Semmelweis and the Discovery of Handwashing
